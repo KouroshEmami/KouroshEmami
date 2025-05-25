@@ -10,6 +10,10 @@ I'm a data analyst passionate about solving problems and turning data into meani
 - Advanced SQL and Python for data analytics
 - Tech, culture, and storytelling through content
 
+## 🔗 Portfolio
+You can check out my selected portfolio projects here:  
+👉 [github.com/KouroshEmami/data-portfolio](https://github.com/KouroshEmami/data-portfolio)
+
 ## 🌱 I’m currently learning:
 - FastAPI and API development
 - Docker and containerization
