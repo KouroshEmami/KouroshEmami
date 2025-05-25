@@ -10,8 +10,7 @@ I'm a data analyst passionate about solving problems and turning data into meani
 - Advanced SQL and Python for data analytics
 - Tech, culture, and storytelling through content
 
-## 🔗 Portfolio
-You can check out my selected portfolio projects here:  
+<h2 class="red-portfolio"><a href="#">Portfolio</a></h2>You can check out my selected portfolio projects here:  
 👉 https://github.com/KouroshEmami/Portfolio
 
 ## 🌱 I’m currently learning:
