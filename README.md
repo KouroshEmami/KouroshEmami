@@ -12,7 +12,7 @@ I'm a data analyst passionate about solving problems and turning data into meani
 
 ## 🔗 Portfolio
 You can check out my selected portfolio projects here:  
-👉 [github.com/KouroshEmami/data-portfolio](https://github.com/KouroshEmami/data-portfolio)
+👉 https://github.com/KouroshEmami/Portfolio
 
 ## 🌱 I’m currently learning:
 - FastAPI and API development
