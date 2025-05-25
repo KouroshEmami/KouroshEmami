@@ -19,7 +19,7 @@ You can check out my selected portfolio projects here:
 - FastAPI and API development
 - Docker and containerization
 
-## 💞️ I’m looking to collaborate on:
+## ⭐ I’m looking to collaborate on:
 - Data-driven projects
 - Open-source analytics tools
 
